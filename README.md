@@ -1,5 +1,4 @@
 # Brain tumor detection using python and sklearn
-# Introduction
 Image segmentation and object detection are two crucial tasks in the field of computer vision 
 that play a significant role in understanding and analysing images and videos. These techniques 
 enable machines to comprehend the visual content of digital media, replicating the human 
